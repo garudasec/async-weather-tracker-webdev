@@ -6,6 +6,9 @@ The application allows users to search for a city and view its current weather i
 
 ---
 
+## 📷 Project Preview
+![Weather Tracker Preview](output.png)
+
 ## 📌 Features
 
 * Search weather by city name
