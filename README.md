@@ -96,11 +96,3 @@ Weather data is fetched from:
 https://openweathermap.org/api
 
 ---
-
-## 👨‍💻 Author
-
-**GitHub:** https://github.com/garudasec
-
-Project created as part of a **Web Development Assignment** focusing on asynchronous JavaScript concepts.
-
----
