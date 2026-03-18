@@ -14,7 +14,6 @@
   --con-bg:  rgba(2, 10, 13, 0.80);
 }
 
-/* ── Background ── */
 body {
   min-height: 100vh;
   font-family: 'Space Grotesk', sans-serif;
@@ -35,7 +34,6 @@ body::before {
   filter: brightness(0.22) saturate(1.4);
 }
 
-/* dark gradient overlay so cards stay readable */
 body::after {
   content: '';
   position: fixed;
